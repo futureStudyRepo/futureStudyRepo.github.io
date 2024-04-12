@@ -15,18 +15,18 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "미래융합교육원 테스트"
+locale                   : "ko-KR"
+title                    : "샘플 테스트"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "동길"
+name                     : "팽수"
 description              : "첫 번째 사이트 ^^ ."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://futureStudyRepo.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "깃 블로그 ^^"
+masthead_title           : "블로그 샘플 입니다.^^"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -106,8 +106,8 @@ analytics:
 author:
   name             : "동길"
   avatar           : "/assets/images/a.PNG"
-  bio              : "I am an **amazing** person."
-  location         : "Korea"
+  bio              : "**기록이 자산!!**<br>매일 공부하고 있습니다.<br>소통을 좋아합니다."
+  location         : "Republic of Korea"            # 지역 입니다. 
   email            : "nickapgl@gmail.com"
   links:
     - label: "Email"
@@ -218,7 +218,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 5 # painate의 속성이 보여질 개수입니다.
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
