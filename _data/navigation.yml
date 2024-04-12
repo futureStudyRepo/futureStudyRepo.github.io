@@ -2,10 +2,10 @@
 main:
   - title: "minimal 가이드"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "메뉴1"
-    url: ""
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "레포웹"
+    url: https://github.com/futureStudyRepo/website/
+  - title: "레포웹2"
+    url: https://github.com/futureStudyRepo/website/docs/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
