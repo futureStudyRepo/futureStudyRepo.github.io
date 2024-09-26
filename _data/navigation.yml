@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "minimal 가이드"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "레포웹"
+    url: /website/
+  - title: "레포웹2"
+    url: /website/docs/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
