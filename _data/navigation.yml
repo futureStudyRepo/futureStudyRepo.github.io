@@ -4,8 +4,8 @@ main:
     url: /webTest/
   - title: "메뉴2"
     url: /WebTest2/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "메뉴3"
+    url: /WebTest3/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
